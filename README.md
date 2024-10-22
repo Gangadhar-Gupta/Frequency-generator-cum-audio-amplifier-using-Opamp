@@ -1,1 +1,1 @@
-# Frequency-generator.cum-audio-amplifier-using-Opamp
+# Frequency-generator-cum-audio-amplifier-using-Opamp
